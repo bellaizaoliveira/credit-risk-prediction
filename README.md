@@ -206,7 +206,7 @@ credit-risk-prediction/
 Cientista de Dados | IA Generativa & Machine Learning
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bellaiza-blue?logo=linkedin)](https://linkedin.com/in/bellaiza)
-[![GitHub](https://img.shields.io/badge/GitHub-SEU_USUARIO-black?logo=github)](https://github.com/bellaizaoliveira/)
+[![GitHub](https://img.shields.io/badge/GitHub-bellaizaoliveira-black?logo=github)](https://github.com/bellaizaoliveira/)
 
 ---
 
